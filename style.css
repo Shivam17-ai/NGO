@@ -5,6 +5,7 @@
 .wrapper{
     perspective: 10px;
     overflow-x: hidden;
+    background-color: rgb(29, 178, 219);
 }
 
 .container{
